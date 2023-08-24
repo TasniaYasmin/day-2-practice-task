@@ -1,7 +1,27 @@
 .pthree{
-    background-color: lightgreen;
+    background-image: url(../images/yellow.jfif);
+    background-size: contain;
+    color: crimson;
+    font-size: larger;
+    font-style: oblique;
+    margin: 15px;
 }
 .pthree h2{
-    color: darkorange;
+    color: deeppink;
     text-decoration: line-through;
+}
+#list{
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
+#list h4{
+    font-weight: bolder;
+    font-style: oblique;
+    color: aliceblue;
+}
+#list li{
+    background-color: blue;
+    padding-left: 20px;
+    color: aquamarine;
 }
